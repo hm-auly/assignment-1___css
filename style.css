@@ -394,7 +394,7 @@ body{
 
 /* -- responsiv iphone 14 pro mex --*/
 
-@media all and (max-width: 430px) {
+@media all and (max-width: 640px) {
 
            /* nav start */     
             .navber{
